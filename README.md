@@ -24,8 +24,9 @@ This demonstration showcases the implementation of Generative Adversarial Networ
 ### Contact Information
 
 Feel free to reach out with any questions or requests:  
-- **Email:** honggeun.jo@inha.ac.kr  
+- **Email:** honggeun.jo@inha.ac.kr
+- **WebPage:** [petroinha](https://petroinha.github.io./)
 - **YouTube:** [whghdrms](https://www.youtube.com/@whghdrms)  
-- **GitHub:** [whghdrms](https://github.com/whghdrms)  
+- **GitHub:** [geomodeller](https://github.com/geomodeller)  
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=u0OE5CIAAAAJ&hl=en)  
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/honggeun-jo/)  
