@@ -4,10 +4,7 @@
 
 This demonstration showcases the implementation of Generative Adversarial Networks (GANs) to extract geological features from a 3D channelized reservoir model. The model dimensions are $\(60 \times 60 \times 7\)$ along the $\(x\)$-, $\(y\$)-, and $\(z\$)-directions. The example 3D channel model, commonly referred to as the "Egg Model," was originally introduced by [Jansen et al. (2014)](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.21). 
 
-<video width="640" height="360" controls>
-  <source src="[GAN_Demo_video.mp4](https://github.com/geomodeller/3d_channel_model_gan_demo/blob/main/GAN_Demo_video.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="640" height="360" src="https://youtu.be/yWnvWgc-vxk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Implemented GAN Models
 
